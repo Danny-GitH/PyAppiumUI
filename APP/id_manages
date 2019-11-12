@@ -1,0 +1,13 @@
+1、首次加载app，同意id  com.popnews2345:id/pms_tv_request
+2、弹出3次始终允许，id   com.android.packageinstaller:id/permission_allow_button
+
+
+3、关联登录中的“手机号登录” text
+
+4、请输入手机号 com.popnews2345:id/etPhone
+5、点击获取验证码  com.popnews2345:id/btnPhoneSendBindCode
+6、输入验证码 com.popnews2345:id/verifyCodeEditText，点击确认com.popnews2345:id/tv_confirm，点击取消com.popnews2345:id/tv_cancel
+
+7、输入短信验证码com.popnews2345:id/etVerifyCode，立即登录com.popnews2345:id/btnBinding
+8、隐私政策同意com.popnews2345:id/tv_confirm，隐私政策取消com.popnews2345:id/tv_cancel
+9、新人红包删除按钮com.popnews2345:id/iv_delete

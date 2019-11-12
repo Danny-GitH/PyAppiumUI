@@ -1,0 +1,5 @@
+2019-11-07 15:57:38,341 - StarDemo_001CheckGoin_FirstPage - INFO - 驱动加载成功
+2019-11-07 15:57:38,894 - StarDemo_001CheckGoin_FirstPage - INFO - 进入通用demo页面成功...
+2019-11-07 15:57:38,894 - StarDemo_001CheckGoin_FirstPage - INFO - 进入通用demo页面失败...'str' object is not callable
+2019-11-07 15:57:44,256 - StarDemo_001CheckGoin_FirstPage - INFO - 该测试用例结束，关闭应用！
+

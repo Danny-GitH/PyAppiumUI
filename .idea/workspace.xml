@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c51b4c9a-3b45-41b9-90cc-8a5eedbf5628" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test_Case/StarDemo_001CheckGoin_FirstPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-446">
+              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+              <folding>
+                <element signature="e#60#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_method/Screen_Shot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="e#59#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test_Case/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+              <folding>
+                <element signature="e#15#45#0" expanded="true" />
+                <element signature="e#365#829#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_method/UI_Method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="115" column="17" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="17" />
+              <folding>
+                <element signature="e#60#71#0" expanded="true" />
+                <element signature="e#685#1689#0" />
+                <element signature="e#1740#2581#0" />
+                <element signature="e#3548#3566#0" />
+                <element signature="e#3622#3861#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_method/Zip_Log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_method/Email_Method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-414" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_method/Get_script_name.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_method/Log_Method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-552" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_method/Read_Excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-101" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_method/Result_Excel.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>start_Info</find>
+      <find>test</find>
+      <find>file_path</find>
+      <find>readFilename</find>
+      <find>read_excel</find>
+      <find>config</find>
+      <find>new_Info</find>
+      <find>HTM</find>
+      <find>Html</find>
+      <find>get_path</find>
+      <find>screen</find>
+      <find>启动信息流sdk进入宿主配置页面成功,但没有获取到启动信息流按钮！</find>
+      <find>pass</find>
+      <find>success_count</find>
+      <find>F</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\F\Project_Auto\Appium_beta1\public_method</dir>
+      <dir>E:\F\Project_Auto\Appium_beta1\Log</dir>
+      <dir>E:\F\Project_Auto\Appium_beta1</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Test_Case/Test_001_demo.py" />
+        <option value="$PROJECT_DIR$/Test_Case/news_001_Logins.py" />
+        <option value="$PROJECT_DIR$/Test_Case/news_003_EditChannel.py" />
+        <option value="$PROJECT_DIR$/Config_File/EmailConfig.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test002.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test001.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test003.py" />
+        <option value="$PROJECT_DIR$/APP/id_manages" />
+        <option value="$PROJECT_DIR$/Test_Case/test_login_001.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_005_indetail_outdetail.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test1_002_first_page.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test1_001_login.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_003_edit_channel.py" />
+        <option value="$PROJECT_DIR$/public_method/Email_Method.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_002_first_page.py" />
+        <option value="$PROJECT_DIR$/Test_Case/wechat_login001.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_005_chec_klist_ad.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_001_login.py" />
+        <option value="$PROJECT_DIR$/Test_Case/news_004_Reduce_News.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_006_self_build_detail_topAD.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_008_self_build_detail_downAD.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_005_check_list_ad.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_004_reduce_news.py" />
+        <option value="$PROJECT_DIR$/Test_Case/test_007_BD_topAD.py" />
+        <option value="$PROJECT_DIR$/public_method/Color_Change.py" />
+        <option value="$PROJECT_DIR$/Test_Case/Demo_001_FisrtPage.py" />
+        <option value="$PROJECT_DIR$/Test_Case/Demo_002_EditChannel.py" />
+        <option value="$PROJECT_DIR$/Config_File/Scripts_Config.py" />
+        <option value="$PROJECT_DIR$/Test_Case/Run.py" />
+        <option value="$PROJECT_DIR$/Get_Device_Info/Get_Driver.py" />
+        <option value="$PROJECT_DIR$/Test_Case/Demo_003_ReduceNews.py" />
+        <option value="$PROJECT_DIR$/Test_Case/run_htlm.py" />
+        <option value="$PROJECT_DIR$/public_method/Result_Excel.py" />
+        <option value="$PROJECT_DIR$/comm_method/Setup_app.py" />
+        <option value="$PROJECT_DIR$/Config_File/CommPath.py" />
+        <option value="$PROJECT_DIR$/public_method/Get_script_name.py" />
+        <option value="$PROJECT_DIR$/public_method/Log_Method.py" />
+        <option value="$PROJECT_DIR$/public_method/UI_Method.py" />
+        <option value="$PROJECT_DIR$/Test_Case/Newdemo_001.py" />
+        <option value="$PROJECT_DIR$/Test_Case/Newdemo_002.py" />
+        <option value="$PROJECT_DIR$/Test_Case/StarDemo_EditChannel.py" />
+        <option value="$PROJECT_DIR$/Test_Case/StarDemo_CheckGoin_FirstPage.py" />
+        <option value="$PROJECT_DIR$/Test_Case/Newdemo_003.py" />
+        <option value="$PROJECT_DIR$/Test_Case/run.py" />
+        <option value="$PROJECT_DIR$/Config_File/SdkInfo.ini" />
+        <option value="$PROJECT_DIR$/Test_Case/StarDemo_DeleNewsAd.py" />
+        <option value="$PROJECT_DIR$/Test_Case/StarDemo_003DeleNewsAd.py" />
+        <option value="$PROJECT_DIR$/Test_Case/TNewdemo_001.py" />
+        <option value="$PROJECT_DIR$/Test_Case/StarDemo_001CheckGoin_FirstPage.py" />
+        <option value="$PROJECT_DIR$/public_method/Screen_Shot.py" />
+        <option value="$PROJECT_DIR$/public_method/Zip_Log.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Appium_beta3_20191101" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Appium_beta1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+              <item name="comm_method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+              <item name="Config_File" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+              <item name="Get_Device_Info" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+              <item name="Log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+              <item name="Package_Cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+              <item name="public_method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Appium_beta3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Appium_beta3" type="462c0819:PsiDirectoryNode" />
+              <item name="Test_Case" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TODO_SCOPE" value="Project Files" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\F\Project_Auto\Appium_beta1\Test_Case" />
+      <recent name="E:\F\Project_Auto\Appium_beta1\Config_Files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="CommPath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Appium_beta1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config_File" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Config_File/CommPath.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Get_script_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Appium_beta1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/public_method" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public_method/Get_script_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Screen_Shot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Appium_beta1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/public_method" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public_method/Screen_Shot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Appium_beta1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_Case/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_htlm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Appium_beta1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test_Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_Case/run_htlm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.Get_script_name" />
+        <item itemvalue="Python.Screen_Shot" />
+        <item itemvalue="Python.CommPath" />
+        <item itemvalue="Python.run_htlm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c51b4c9a-3b45-41b9-90cc-8a5eedbf5628" name="Default Changelist" comment="" />
+      <created>1559090238490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559090238490</updated>
+      <workItem from="1559090283989" duration="38738000" />
+      <workItem from="1561455871143" duration="3674000" />
+      <workItem from="1561526221118" duration="6702000" />
+      <workItem from="1561963231663" duration="815000" />
+      <workItem from="1561964705832" duration="6954000" />
+      <workItem from="1563789141311" duration="103000" />
+      <workItem from="1563790632100" duration="1584000" />
+      <workItem from="1564704126600" duration="1381000" />
+      <workItem from="1565248975048" duration="10433000" />
+      <workItem from="1566181404499" duration="4361000" />
+      <workItem from="1566279601600" duration="24700000" />
+      <workItem from="1566898184563" duration="53000" />
+      <workItem from="1567125225658" duration="705000" />
+      <workItem from="1567125996096" duration="374000" />
+      <workItem from="1567126390858" duration="1288000" />
+      <workItem from="1567127697773" duration="4556000" />
+      <workItem from="1567139750964" duration="11659000" />
+      <workItem from="1567468891236" duration="18303000" />
+      <workItem from="1567557751622" duration="19315000" />
+      <workItem from="1568698336507" duration="11668000" />
+      <workItem from="1568942444777" duration="36488000" />
+      <workItem from="1570512027445" duration="22889000" />
+      <workItem from="1570698411203" duration="21612000" />
+      <workItem from="1571272263774" duration="48673000" />
+      <workItem from="1572573584065" duration="5337000" />
+      <workItem from="1572586607848" duration="20644000" />
+      <workItem from="1572850507516" duration="19280000" />
+      <workItem from="1572932308487" duration="31271000" />
+      <workItem from="1573467588846" duration="1836000" />
+      <workItem from="1573529910373" duration="809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_news_Logins_001_py - 2019.08.20 at 15h 23m 06s.xml">
+      <configuration name="Unittests in news_Logins_001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test001_py - 2019.09.23 at 09h 05m 54s.xml">
+      <configuration name="Unittests in test001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test001_py - 2019.09.23 at 09h 06m 29s.xml">
+      <configuration name="Unittests in test001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test001_py - 2019.09.23 at 09h 06m 33s.xml">
+      <configuration name="Unittests in test001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test001_py - 2019.09.23 at 09h 06m 43s.xml">
+      <configuration name="Unittests in test001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_001_py - 2019.10.08 at 16h 04m 26s.xml">
+      <configuration name="Unittests in test_login_001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_001_py - 2019.10.08 at 16h 05m 56s.xml">
+      <configuration name="Unittests in test_login_001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_wechat_login001_py - 2019.10.14 at 19h 10m 33s.xml">
+      <configuration name="Unittests in wechat_login001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_wechat_login001_py - 2019.10.14 at 19h 11m 21s.xml">
+      <configuration name="Unittests in wechat_login001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_wechat_login001_py - 2019.10.14 at 19h 12m 28s.xml">
+      <configuration name="Unittests in wechat_login001.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="376205000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28141782" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26571113" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32855567" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32855567" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13870968" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30607736" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32928178" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="SciView" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Appium_beta1$Email_Method.coverage" NAME="Email_Method Coverage Results" MODIFIED="1569374591438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public_method" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$run_htlm.coverage" NAME="run_htlm Coverage Results" MODIFIED="1572585763309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Unittests_in_start_login001_py.coverage" NAME="Unittests in start_login001.py Coverage Results" MODIFIED="1565251801404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Unittests_in_new_login001_py.coverage" NAME="Unittests in new_login001.py Coverage Results" MODIFIED="1559696158021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta3_20191101$run_htlm.coverage" NAME="run_htlm Coverage Results" MODIFIED="1572833340302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Unittests_in_test_login_001_py.coverage" NAME="Unittests in test_login_001.py Coverage Results" MODIFIED="1570521945231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta3_20191101$Screen_Shot.coverage" NAME="Screen_Shot Coverage Results" MODIFIED="1572920440691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public_method" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Unittests_in_test001_py.coverage" NAME="Unittests in test001.py Coverage Results" MODIFIED="1569200803084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta3_20191101$run.coverage" NAME="run Coverage Results" MODIFIED="1573113447989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Result_Excel.coverage" NAME="Result_Excel Coverage Results" MODIFIED="1566289779755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public_method" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Run.coverage" NAME="Run Coverage Results" MODIFIED="1572579473905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta3_20191101$Get_script_name.coverage" NAME="Get_script_name Coverage Results" MODIFIED="1572922678306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public_method" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Unittests_in_wechat_login001_py.coverage" NAME="Unittests in wechat_login001.py Coverage Results" MODIFIED="1571051486020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Unittests_in_news_Logins_001_py.coverage" NAME="Unittests in news_Logins_001.py Coverage Results" MODIFIED="1566285736015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Case" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$CommPath.coverage" NAME="CommPath Coverage Results" MODIFIED="1559091817218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config_File" />
+    <SUITE FILE_PATH="coverage/Appium_beta1$Install_Apk.coverage" NAME="Install_Apk Coverage Results" MODIFIED="1559560339222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comm_method" />
+    <SUITE FILE_PATH="coverage/Appium_beta3_20191101$CommPath.coverage" NAME="CommPath Coverage Results" MODIFIED="1572836707123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Config_File" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-05_19_37_28result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_14_28_05result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/TStarDemo_002EditChannel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="96" column="32" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_14_39_05result.html" />
+    <entry file="file://$PROJECT_DIR$/Log/StarDemo_DeleNewsAd/201911061446StarDemo_DeleNewsAd.log" />
+    <entry file="file://$PROJECT_DIR$/Log/StarDemo_CheckGoin_FirstPage/201911061445StarDemo_CheckGoin_FirstPage.log" />
+    <entry file="file://$PROJECT_DIR$/Log/StarDemo_DeleNewsAd/201911061457StarDemo_DeleNewsAd.log" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_14_16_59result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_14_17_48result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_08_26_41result.html" />
+    <entry file="file://C:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="409" column="58" selection-start-line="409" selection-start-column="53" selection-end-line="409" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_14_57_22result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_16_06_03result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_14_45_49result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_15_16_51result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_16_09_24result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_16_13_46result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_16_14_21result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_16_17_55result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_16_24_24result.html" />
+    <entry file="file://$PROJECT_DIR$/Log/StarDemo_DeleNewsAd/201911061624StarDemo_DeleNewsAd.log" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/Newdemo_003.py" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_16_20_04result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-06_16_29_13result.html" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/TNewdemo_001.py" />
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-07_15_40_04result.html" />
+    <entry file="file://$PROJECT_DIR$/Log/StarDemo_001CheckGoin_FirstPage/201911071541StarDemo_001CheckGoin_FirstPage.log" />
+    <entry file="file://$PROJECT_DIR$/Log/StarDemo_001CheckGoin_FirstPage/201911071553StarDemo_001CheckGoin_FirstPage.log" />
+    <entry file="file://$PROJECT_DIR$/comm_method/Setup_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-07_15_41_31result.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-07_15_53_02result.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/report/2019-11-07_15_57_28result.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Log/StarDemo_001CheckGoin_FirstPage/201911071557StarDemo_001CheckGoin_FirstPage.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/TStarDemo_003DeleNewsAd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="65" column="30" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+          <folding>
+            <element signature="e#60#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config_File/SdkInfo.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config_File/CommPath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Config_File/EmailConfig.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Get_Device_Info/Get_Driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Get_Device_Info/DeviceInfo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Package_Cases/package_case.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/Color_Change.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/Email_Method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/Get_script_name.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/Log_Method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/Read_Excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-101" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/Result_Excel.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/Screen_Shot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#59#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/UI_Method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="115" column="17" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="17" />
+          <folding>
+            <element signature="e#60#71#0" expanded="true" />
+            <element signature="e#685#1689#0" />
+            <element signature="e#1740#2581#0" />
+            <element signature="e#3548#3566#0" />
+            <element signature="e#3622#3861#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_method/Zip_Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding>
+            <element signature="e#15#45#0" expanded="true" />
+            <element signature="e#365#829#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Case/StarDemo_001CheckGoin_FirstPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-446">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+          <folding>
+            <element signature="e#60#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
